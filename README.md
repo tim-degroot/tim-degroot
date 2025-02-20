@@ -6,7 +6,7 @@ I’m a bachelor student studying Chemistry at the University of Amsterdam  with
 - Astrochemistry
 ## 🛠️ Tools & Skills
 - Languages: Python, Julia (learning)
-- Tech: Unix, Git, $\LaTeX$
+- Tech: Unix, Git, LaTeX
 - Methods: Monte Carlo Simulations, Theoretical Modeling
 ## 🚀 Projects
 - [PAHMC](https://github.com/tim-degroot/PAHMC) A Monte Carlo model developped for my Bachelor Thesis to simulate scrambling and dissociation reactions in Polycyclic Aromatic Hydrocarbons to investigate isotopic effects.
